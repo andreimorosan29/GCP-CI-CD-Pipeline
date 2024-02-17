@@ -31,4 +31,6 @@ This process, known as Continuous Deployment (or CD), goes a step beyond by auto
 
 Continuous Integration (CI): Build and test code automatically whenever changes are committed.
 Continuous Delivery (CD): Automated build, test and preparation of deployment-ready releases.
-Continuous Deployment (also CD): Automatically deploy successful builds to production with no human intervention.
+Continuous Deployment (also CD): Automatically deploy successful builds to production with no human intervention. 
+
+The common theme is automating the software delivery pipeline from code changes all the way through to deployment, providing a fast feedback loop.

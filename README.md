@@ -3,6 +3,8 @@ This is a project to showcase how to build a CI/CD pipeline in Google Cloud.
 
 # Definitions and Intro
 
+**IF YOU ARE ALREADY FAMILIAR WITH THE CONCEPTS YOU CAN SKIP THIS PART**
+
 _What is Continuous Integration (CI) ?_
 
 Integration issues are identified early in the software development process through Continuous Integration (CI), which involves developers regularly merging code into a common repository, ideally multiple times daily. Each integration is validated by an automated build and tests to maintain a single, unbroken code repository.
